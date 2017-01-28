@@ -4,6 +4,7 @@ using GaggleService.Storage.Caches;
 using MongoDB.Bson.Serialization;
 using MongoDB.Bson.Serialization.Serializers;
 using MongoDB.Driver;
+using GaggleService.Storage.Objects.Account;
 
 namespace GaggleService.Gaggle.Storage.Managers
 {

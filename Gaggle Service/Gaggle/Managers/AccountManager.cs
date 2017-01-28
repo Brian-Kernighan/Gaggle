@@ -46,7 +46,7 @@ namespace GaggleService.Gaggle.Managers
 
         internal User Authorize(string email, string password)
         {
-            var repository = new AccountRepository<IAccountData>(_storageManager.StorageCollection);
+            //var repository = new AccountRepository<IAccountData>(_storageManager.StorageCollection);
 
             //repository.Login(email, password);
 

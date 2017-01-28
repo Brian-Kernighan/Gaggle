@@ -5,6 +5,7 @@ using GaggleService.Gaggle.Network.Assemblers;
 using GaggleService.Gaggle.Network.Factories;
 using GaggleService.Storage.Caches;
 using GaggleService.Storage.Objects.Account;
+using System;
 
 namespace GaggleService.Network
 {
@@ -14,7 +15,7 @@ namespace GaggleService.Network
         {
             OperationContext.Execute(() =>
             {
-                ManagerFactory<AccountManager>.CreateManager().Logoff();
+                //ManagerFactory<AccountManager>.CreateManager().Logoff();
             }, "Logoff");
         }
 
@@ -32,7 +33,8 @@ namespace GaggleService.Network
         {
             return OperationContext<byte[]>.Execute(() =>
             {
-                return Assembler.Assembly(ManagerFactory<AccountManager>.CreateManager().Authorize(email, password));
+                throw new NotImplementedException();
+                //return Assembler.Assembly(ManagerFactory<AccountManager>.CreateManager().Authorize(email, password));
             }, "Authorize", email, password);
         }
     }

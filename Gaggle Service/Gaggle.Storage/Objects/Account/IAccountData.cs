@@ -1,4 +1,5 @@
 ﻿using GaggleService.Gaggle.Common;
+using GaggleService.Storage.Objects.Permission;
 using System;
 using System.Collections.Generic;
 

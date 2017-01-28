@@ -1,7 +1,7 @@
 ﻿using GaggleService.Gaggle.Common;
 using GaggleService.Gaggle.Objects;
-using GaggleService.Storage.IObjects;
-using GaggleService.Storage.Objects;
+using GaggleService.Storage.Objects.Account;
+using GaggleService.Storage.Objects.Permission;
 using System;
 using System.Collections.Generic;
 

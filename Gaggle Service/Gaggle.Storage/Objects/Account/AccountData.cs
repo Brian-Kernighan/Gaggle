@@ -1,5 +1,5 @@
 ﻿using GaggleService.Gaggle.Common;
-using GaggleService.Storage.IObjects;
+using GaggleService.Storage.Objects.Permission;
 using MongoDB.Bson.Serialization.Attributes;
 using System;
 using System.Collections.Generic;
