@@ -1,0 +1,27 @@
+D:\Project\Messenger\Message Service\bin\Debug\netcoreapp1.0\GaggleService.deps.json
+D:\Project\Messenger\Message Service\bin\Debug\netcoreapp1.0\GaggleService.runtimeconfig.json
+D:\Project\Messenger\Message Service\bin\Debug\netcoreapp1.0\GaggleService.runtimeconfig.dev.json
+D:\Project\Messenger\Message Service\bin\Debug\netcoreapp1.0\GaggleService.dll
+D:\Project\Messenger\Message Service\bin\Debug\netcoreapp1.0\GaggleService.pdb
+D:\Project\Messenger\Message Service\obj\Debug\netcoreapp1.0\GaggleService.csprojResolveAssemblyReference.cache
+D:\Project\Messenger\Message Service\obj\Debug\netcoreapp1.0\GaggleService.AssemblyInfo.cs
+D:\Project\Messenger\Message Service\obj\Debug\netcoreapp1.0\GaggleService.dll
+D:\Project\Messenger\Message Service\obj\Debug\netcoreapp1.0\GaggleService.pdb
+D:\Project\Gaggle\Gaggle Service\bin\Debug\netcoreapp1.0\GaggleService.deps.json
+D:\Project\Gaggle\Gaggle Service\bin\Debug\netcoreapp1.0\GaggleService.runtimeconfig.json
+D:\Project\Gaggle\Gaggle Service\bin\Debug\netcoreapp1.0\GaggleService.runtimeconfig.dev.json
+D:\Project\Gaggle\Gaggle Service\bin\Debug\netcoreapp1.0\GaggleService.dll
+D:\Project\Gaggle\Gaggle Service\bin\Debug\netcoreapp1.0\GaggleService.pdb
+D:\Project\Gaggle\Gaggle Service\obj\Debug\netcoreapp1.0\GaggleService.csprojResolveAssemblyReference.cache
+D:\Project\Gaggle\Gaggle Service\obj\Debug\netcoreapp1.0\GaggleService.AssemblyInfo.cs
+D:\Project\Gaggle\Gaggle Service\obj\Debug\netcoreapp1.0\GaggleService.dll
+D:\Project\Gaggle\Gaggle Service\obj\Debug\netcoreapp1.0\GaggleService.pdb
+D:\Project\Gaggle\GaggleService\bin\Debug\netcoreapp1.0\GaggleService.deps.json
+D:\Project\Gaggle\GaggleService\bin\Debug\netcoreapp1.0\GaggleService.runtimeconfig.json
+D:\Project\Gaggle\GaggleService\bin\Debug\netcoreapp1.0\GaggleService.runtimeconfig.dev.json
+D:\Project\Gaggle\GaggleService\bin\Debug\netcoreapp1.0\GaggleService.dll
+D:\Project\Gaggle\GaggleService\bin\Debug\netcoreapp1.0\GaggleService.pdb
+D:\Project\Gaggle\GaggleService\obj\Debug\netcoreapp1.0\GaggleService.csprojResolveAssemblyReference.cache
+D:\Project\Gaggle\GaggleService\obj\Debug\netcoreapp1.0\GaggleService.AssemblyInfo.cs
+D:\Project\Gaggle\GaggleService\obj\Debug\netcoreapp1.0\GaggleService.dll
+D:\Project\Gaggle\GaggleService\obj\Debug\netcoreapp1.0\GaggleService.pdb

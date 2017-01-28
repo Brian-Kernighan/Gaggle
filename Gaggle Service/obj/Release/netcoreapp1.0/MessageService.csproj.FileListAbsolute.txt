@@ -1,0 +1,8 @@
+D:\Project\Messenger\MessageService\bin\Release\netcoreapp1.0\MessageService.deps.json
+D:\Project\Messenger\MessageService\bin\Release\netcoreapp1.0\MessageService.runtimeconfig.json
+D:\Project\Messenger\MessageService\bin\Release\netcoreapp1.0\MessageService.runtimeconfig.dev.json
+D:\Project\Messenger\MessageService\bin\Release\netcoreapp1.0\MessageService.dll
+D:\Project\Messenger\MessageService\bin\Release\netcoreapp1.0\MessageService.pdb
+D:\Project\Messenger\MessageService\obj\Release\netcoreapp1.0\MessageService.AssemblyInfo.cs
+D:\Project\Messenger\MessageService\obj\Release\netcoreapp1.0\MessageService.dll
+D:\Project\Messenger\MessageService\obj\Release\netcoreapp1.0\MessageService.pdb

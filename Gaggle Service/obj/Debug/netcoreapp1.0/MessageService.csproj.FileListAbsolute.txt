@@ -1,0 +1,18 @@
+D:\Project\Messenger\MessageService\bin\Debug\netcoreapp1.0\MessageService.deps.json
+D:\Project\Messenger\MessageService\bin\Debug\netcoreapp1.0\MessageService.runtimeconfig.json
+D:\Project\Messenger\MessageService\bin\Debug\netcoreapp1.0\MessageService.runtimeconfig.dev.json
+D:\Project\Messenger\MessageService\bin\Debug\netcoreapp1.0\MessageService.dll
+D:\Project\Messenger\MessageService\obj\Debug\netcoreapp1.0\MessageService.csprojResolveAssemblyReference.cache
+D:\Project\Messenger\MessageService\obj\Debug\netcoreapp1.0\MessageService.AssemblyInfo.cs
+D:\Project\Messenger\MessageService\bin\Debug\netcoreapp1.0\MessageService.pdb
+D:\Project\Messenger\MessageService\obj\Debug\netcoreapp1.0\MessageService.dll
+D:\Project\Messenger\MessageService\obj\Debug\netcoreapp1.0\MessageService.pdb
+D:\Project\Messenger\Message Service\bin\Debug\netcoreapp1.0\MessageService.deps.json
+D:\Project\Messenger\Message Service\bin\Debug\netcoreapp1.0\MessageService.runtimeconfig.json
+D:\Project\Messenger\Message Service\bin\Debug\netcoreapp1.0\MessageService.runtimeconfig.dev.json
+D:\Project\Messenger\Message Service\bin\Debug\netcoreapp1.0\MessageService.dll
+D:\Project\Messenger\Message Service\bin\Debug\netcoreapp1.0\MessageService.pdb
+D:\Project\Messenger\Message Service\obj\Debug\netcoreapp1.0\MessageService.csprojResolveAssemblyReference.cache
+D:\Project\Messenger\Message Service\obj\Debug\netcoreapp1.0\MessageService.AssemblyInfo.cs
+D:\Project\Messenger\Message Service\obj\Debug\netcoreapp1.0\MessageService.dll
+D:\Project\Messenger\Message Service\obj\Debug\netcoreapp1.0\MessageService.pdb
